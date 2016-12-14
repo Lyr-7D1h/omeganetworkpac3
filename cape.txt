@@ -1,0 +1,33 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Velocity"] = 78.4,
+				["StickLifetime"] = 0.7,
+				["UniqueID"] = "2615527353",
+				["StickStartSize"] = 7,
+				["StickEndAlpha"] = 0.1,
+				["PositionSpread"] = 36.3,
+				["FireDelay"] = 0.7,
+				["Position"] = Vector(-6.658447265625, 3.585693359375, -1.68017578125),
+				["NumberParticles"] = 8.2,
+				["ClassName"] = "particles",
+				["Color1"] = Vector(83, 74, 74),
+				["Angles"] = Angle(-7.4125566482544, -121.56657409668, 31.646245956421),
+				["Material"] = "sprites/light_glow02_add_noz",
+				["Bone"] = "left foot",
+				["Color2"] = Vector(38, 34, 34),
+				["Gravity"] = Vector(0, 0, 0),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1695615402",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

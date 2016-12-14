@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "517562495",
+				["Position"] = Vector(-6.55224609375, 0.441162109375, -0.3658447265625),
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "skirt",
+				["Model"] = "models/pac/jiggle/clothing/base_trench_1.mdl",
+				["Angles"] = Angle(-7.7508435249329, -87.365730285645, 88.751899719238),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "963863027",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
