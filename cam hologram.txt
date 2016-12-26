@@ -1,0 +1,94 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(14.781404495239, -37.579456329346, -9.9902992248535),
+						["Position"] = Vector(2.7080078125, -0.489501953125, -1.8130798339844),
+						["Bone"] = "left forearm",
+						["UniqueID"] = "337627488",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-18.608005523682, -42.909526824951, -26.322057723999),
+						["Position"] = Vector(0.447021484375, -0.4384765625, -1.115234375),
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "3884545245",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0.00025399765581824, 3.6712266592076e-005, -79.958396911621),
+						["Position"] = Vector(-0.58332824707031, -2.169921875, -1.521484375),
+						["Bone"] = "left hand",
+						["UniqueID"] = "4116460652",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3882301715",
+						["Scale"] = Vector(1, 1, 0.40000000596046),
+						["ClassName"] = "model",
+						["Size"] = 0.175,
+						["Position"] = Vector(2.7512359619141, -0.97021484375, 1.2919921875),
+						["Color"] = Vector(0, 0, 0),
+						["Bone"] = "left hand",
+						["Model"] = "models/lt_c/sci_fi/light_spotlight.mdl",
+						["Angles"] = Angle(80.322647094727, 49.426551818848, -44.466907501221),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-28.820760726929, 9.0103712081909, 88.453994750977),
+						["UniqueID"] = "2110774516",
+						["Position"] = Vector(3.1038818359375, -9.4541015625, 1.441162109375),
+						["Bone"] = "left hand",
+						["Model"] = "models/lt_c/holograms/rt_cam.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0.93389946222305, -2.5938148498535, 8.8739585876465),
+						["UniqueID"] = "915372962",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "258037748",
+				["Arguments"] = "b",
+				["Invert"] = true,
+				["Event"] = "button",
+				["EditorExpand"] = true,
+				["Operator"] = "equal",
+				["Name"] = "press b",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2451743371",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

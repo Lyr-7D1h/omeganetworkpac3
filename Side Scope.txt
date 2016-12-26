@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(30.173261642456, -5.1371884346008, 152.2507019043),
+				["UniqueID"] = "15849029",
+				["Position"] = Vector(1.318359375, 4.64111328125, 3.528564453125),
+				["Size"] = 0.525,
+				["Bone"] = "spine",
+				["Model"] = "models/weapons/w_binoculars.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2444639430",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

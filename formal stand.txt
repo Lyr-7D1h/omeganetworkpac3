@@ -1,0 +1,68 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(9.3535451889038, 27.696548461914, -6.1683249473572),
+						["Position"] = Vector(-1.13134765625, -0.2958984375, 1.0222778320313),
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "208117768",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-8.6361103057861, -0.59822618961334, 3.9774453639984),
+						["Position"] = Vector(0.0009765625, 0.00341796875, 0.22314453125),
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "2489780043",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-58.96475982666, 8.5590715408325, -7.3485336303711),
+						["Position"] = Vector(0.92041015625, 0.5810546875, -0.03564453125),
+						["Bone"] = "right forearm",
+						["UniqueID"] = "274021009",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(55.400470733643, -59.228630065918, -82.416580200195),
+						["Position"] = Vector(-0.05078125, 0.042236328125, 0.142578125),
+						["Bone"] = "left forearm",
+						["UniqueID"] = "623007786",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "g",
+				["Invert"] = true,
+				["UniqueID"] = "1451296391",
+				["Event"] = "button",
+				["Operator"] = "equal",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3479894023",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,76 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(24.435415267944, -10.254220962524, -12.003273010254),
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "3691704054",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-3.0602300167084, 2.6063942909241, 164.15119934082),
+						["UniqueID"] = "1501343049",
+						["Position"] = Vector(5.73876953125, -0.45697021484375, -2.324951171875),
+						["Size"] = -0.325,
+						["Bone"] = "right forearm",
+						["Model"] = "models/cire992/props/keyboard02.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0.98595064878464, -4.9251599311829, 11.291435241699),
+						["Bone"] = "right hand",
+						["UniqueID"] = "2072351784",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-0.00022368869394995, -96.437484741211, -48.418811798096),
+						["Position"] = Vector(0.90185546875, -0.035888671875, -0.1142578125),
+						["Bone"] = "right forearm",
+						["UniqueID"] = "641759877",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-8.1787462234497, -11.329916000366, -35.376037597656),
+						["UniqueID"] = "3182672995",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "1216265749",
+				["Event"] = "is_typing",
+				["Operator"] = "equal",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3737657392",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

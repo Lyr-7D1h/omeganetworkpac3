@@ -1,0 +1,84 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2503162169",
+						["Passes"] = 0.7,
+						["Material"] = "sprites/ar2_muzzle3",
+						["Size"] = 6.075,
+						["Position"] = Vector(-16.38427734375, -6.87890625, -2.602783203125),
+						["ClassName"] = "model",
+						["TextureFilter"] = 3.2,
+						["Model"] = "models/pac/default.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "sunbeams",
+						["UniqueID"] = "2592685283",
+						["Multiplier"] = -0.05,
+						["Angles"] = Angle(0, -0.20000000298023, 0),
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "animation",
+						["UniqueID"] = "4252567652",
+						["SequenceName"] = "swimming_all",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(4.7090253829956, -107.72598266602, -90.566375732422),
+						["Position"] = Vector(2.625, -2.3291015625, -0.0416259765625),
+						["ClassName"] = "model",
+						["Size"] = 1.35,
+						["Model"] = "models/Gibs/HGIBS.mdl",
+						["UniqueID"] = "1162165724",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3526987221",
+						["LightBlend"] = 0.9,
+						["Angles"] = Angle(0.091468714177608, -75.247497558594, -91.260200500488),
+						["Size"] = 1.15,
+						["PositionOffset"] = Vector(0, 6.5999999046326, 0),
+						["ClassName"] = "model",
+						["Bone"] = "neck",
+						["Model"] = "models/pac/jiggle/clothing/base_cape_1_gravity.mdl",
+						["Position"] = Vector(-3.38134765625, -0.48486328125, 6.4517822265625),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3789727844",
+				["Event"] = "is_in_noclip",
+				["Operator"] = "equal",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "admin",
+		["ClassName"] = "group",
+		["UniqueID"] = "2422947293",
+		["EditorExpand"] = true,
+	},
+},

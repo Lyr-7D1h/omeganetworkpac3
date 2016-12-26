@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-37.525650024414, 179.50428771973, 3.1627328395844),
+				["UniqueID"] = "694089920",
+				["Position"] = Vector(30.703125, -8.2344360351563, -14.018222808838),
+				["Size"] = 1.05,
+				["Bone"] = "spine 2",
+				["Model"] = "models/weapons/synbf3/c_dlt20a.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "61808717",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
