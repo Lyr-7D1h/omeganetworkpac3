@@ -1,0 +1,105 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-25.047857284546, -28.674060821533, -66.824577331543),
+						["UniqueID"] = "3433089848",
+						["Bone"] = "left upperarm",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(2.0930800437927, 26.707996368408, -17.782415390015),
+						["Bone"] = "left finger 11",
+						["UniqueID"] = "2226034254",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(1.6284440159178e-012, 0, -58.029945373535),
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "349485512",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(62.076915740967, -139.74516296387, -69.567741394043),
+						["Position"] = Vector(-1.3146362304688, -0.41107177734375, 0.67181396484375),
+						["Bone"] = "left forearm",
+						["UniqueID"] = "2246831315",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.0378441810608, 30.575656890869, 3.5562787055969),
+						["Bone"] = "left finger 31",
+						["UniqueID"] = "164385110",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-34.071262359619, -13.873086929321, -0.00027416687225923),
+						["Bone"] = "left finger 01",
+						["UniqueID"] = "2170292927",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-0.00010565449338173, 32.011047363281, 0),
+						["Bone"] = "left finger 21",
+						["UniqueID"] = "305859340",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-2.6715292930603, 27.399347305298, -1.3838655948639),
+						["Bone"] = "left finger 41",
+						["UniqueID"] = "3850580996",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "p",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "1507333779",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1156125511",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

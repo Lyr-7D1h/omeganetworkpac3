@@ -1,0 +1,22 @@
+["children"] = {
+	[1] = {
+		["children"] = {
+		},
+		["self"] = {
+			["ClassName"] = "model",
+			["UniqueID"] = "3336703243",
+			["Position"] = Vector(12.84765625, 0.58544921875, -0.29443359375),
+			["Color"] = Vector(26, 26, 26),
+			["Bone"] = "spine 1",
+			["Model"] = "models/pac/jiggle/clothing/base_cape_2_gravity.mdl",
+			["Angles"] = Angle(0.45371076464653, 105.68952941895, 91.907974243164),
+		},
+	},
+},
+["self"] = {
+	["EditorExpand"] = true,
+	["UniqueID"] = "1292289526",
+	["ClassName"] = "group",
+	["Name"] = "my outfit",
+	["Description"] = "add parts to me!",
+},
